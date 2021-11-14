@@ -1,1 +1,1 @@
-# fruit-collector-1-sarthak
+# project-template-fruit-catcher-I
